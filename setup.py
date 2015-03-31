@@ -10,7 +10,7 @@ else:
         version = f.readlines()[0].strip()
 
 
-setup(name='template_utils',
+setup(name='template-utils',
       version=version,
       description='Template-related utilities for Django applications',
       author='James Bennett',
